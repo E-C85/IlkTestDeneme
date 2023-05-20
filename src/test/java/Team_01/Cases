@@ -1,0 +1,58 @@
+Case1:Open the site: https://www.amazon.com/
+  Search the following keys with DataProvider:
+  Java
+  JavaScript
+  Phyton
+
+  Case2:
+  /* Given kullanici "https://editor.datatables.net/" sayfasina gider
+  Then new butonuna basar
+  And editor firstname kutusuna "<firstName>" bilgileri girer
+  And editor lastname kutusuna "<lastName>" bilgileri girer
+  And editor position kutusuna "<position>" bilgileri girer
+  And editor office kutusuna "<office>" bilgileri girer
+  And editor extension kutusuna "<extension>" bilgileri girer
+  And editor startdate kutusuna "<startDate>" bilgileri girer
+  And editor salary kutusuna "<salary>" bilgileri girer
+  When Create tusuna basar
+  Then Kullanıcının eklendiğini doğrular.
+  And Eklediği kullanıcı kaydını siler
+  Then Kullanıcinin silindiğini doğrular.
+  */
+
+
+  case3:
+  //1. "https://www.saucedemo.com" Adresine gidin
+  //2. Username kutusuna "standard_user" yazdirin
+  //3. Password kutusuna "secret_sauce" yazdirin
+  //4. Login tusuna basin
+  //5. Ilk urunun ismini kaydedin ve bu urunun sayfasina gidin
+  //6. Add to Cart butonuna basin
+  //7. Alisveris sepetine tiklayin
+  //8. Sectiginiz urunun basarili olarak sepete eklendigini control edin
+  //9. Sayfayi kapatin
+  --------------------------------
+
+  case4:
+  /*
+  1. http://zero.webappsecurity.com sayfasina gidin
+  2. Signin buttonuna tiklayin
+  3. Login alanine  "username" yazdirin
+  4. Password alanine "password" yazdirin
+  5. Sign in buttonuna tiklayin (hata mesaji icin back tusuna tiklayin)
+  6. Online Banking menusunden Pay Bills sayfasina gidin
+  7. amount kismina yatirmak istediginiz herhangi bir miktari yazin
+  8. tarih kismina "2020-09-10" yazdirin
+  9. Pay buttonuna tiklayin
+  10. "The payment was successfully submitted." mesajinin ciktigini kontrol edin
+  */
+
+case5:
+//1-Test01 isimli bir class olusturun
+//2- https://www.amazon.com/ adresine gidin
+//3- Browseri tam sayfa yapin
+//4-Sayfayi "refresh" yapin
+//5-"Salesforce Apex Questions Bank" icin arama yapiniz
+//6- Kac sonuc bulundugunu yaziniz
+//7-Sayfayi kapatin
+
