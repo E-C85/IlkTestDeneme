@@ -22,6 +22,8 @@ public class Driver {
     public static void teardown(){
         if (driver!=null){
             driver.quit();
+            driver=null;
         }
+
     }
 }
