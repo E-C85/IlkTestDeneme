@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="suite">
+    <test name="test">
+        <parameter name="searchword" value="Java"></parameter>
+        <parameter name="searchword" value="JavaScript"></parameter>
+        <parameter name="searchword" value="Phyton"></parameter>
+        <classes>
+            <class name="Team_01.TestSayfasi.TestClassEmine"></class>
+        </classes>
+    </test>
+
+
+
+
+
+</suite>

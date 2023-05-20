@@ -1,4 +1,4 @@
-package Team_01.Test;
+package Team_01.TestSayfasi;
 
 import Team_01.PageClass.AmazonHomePage_Abdi;
 import Team_01.PageClass.AmazonResultPage_Abdi;

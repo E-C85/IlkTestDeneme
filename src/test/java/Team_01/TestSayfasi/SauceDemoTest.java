@@ -1,4 +1,4 @@
-package Team_01.Test;
+package Team_01.TestSayfasi;
 
 import Team_01.PageClass.SauceDemoCartPage;
 import Team_01.PageClass.SauceDemoInventoryPage;
